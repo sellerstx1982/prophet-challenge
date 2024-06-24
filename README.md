@@ -1,2 +1,4 @@
-# prophet-challenge
-Prophet Challenge
+# MercadoLibre Forecasting Using Prophet
+My coding project uses the Pandas Library of Python in Jupyter Notebook to access Mercado Libre Sales Data from a CSV file to analyze search trends and stock price, while forecasting search trends based on the information given.
+## Process:
+To begin, open the forecasting_net_prophet.ipynb file in a source code editor that supports Jupyter Notebook and has Prophet installed. I recommend using Google Colab if Prophet is not installed in your source code editor. Each cell has code that displays an output below the individual cell. Use the play button outside the top left corner of each cell to run each cell. You can also click inside the cell and press Shift + Enter to run the cell and move down to the next cell. The output of each cell displays what the comment requests and uses the Pandas Library of the Python coding language.
